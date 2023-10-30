@@ -1,3 +1,3 @@
 # Brain-Tumor-Detection
 
-This Project was accompalished using computer vision techniques
+This Project was accomplished using computer vision techniques
